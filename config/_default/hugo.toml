@@ -1,0 +1,16 @@
+baseURL = "https://github.com/nanobitt693/nanobutt693.github.io"
+languageCode = "ja-jp"
+title = "kumuのホームページ"
+timeZone = "Asia/Tokyo"
+publishDir = "docs"
+defaultContentLanguage = "ja"
+theme = "gokarna-hugo"
+hasCJKLanguage = true
+defaultAppearance = "dark"
+
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[frontmatter]
+date = [":fileModTime"]

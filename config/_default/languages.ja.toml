@@ -1,0 +1,13 @@
+title = "kumuのホームページ"
+languageCode = "ja-jp"
+languageName = "日本語"
+
+[params]
+displayName = "JA"
+isoCode = "ja"
+customCSS = ["css/custom.css"]
+
+[params.author]
+name = "kumu"
+
+

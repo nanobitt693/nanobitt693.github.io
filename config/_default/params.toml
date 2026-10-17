@@ -1,0 +1,33 @@
+colorScheme = "blowfish"
+enableSearch = true
+
+enableCodeCopy = true
+disableImageOptimization = false
+disableImageZoom = false
+
+[header]
+layout = "fixed"
+
+[homepage]
+layout = "background"
+
+showRecent = true
+showMoreLink = true
+cardView = true
+layoutBackgroundBlur = true
+showHero = true
+
+[article]
+showDate = true
+showDateUpdated = true
+showReadingTime = true
+showTableOfContents = true
+showTaxonomies = true
+showWordCount = false
+
+layoutBackgroundBlur = true
+showAuthor = true
+
+[list]
+showCards = true
+cardView = true
